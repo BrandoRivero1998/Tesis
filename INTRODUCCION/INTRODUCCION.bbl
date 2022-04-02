@@ -1,0 +1,103 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Aliseda%
+\ \BBA {} Berástegui%
+}{%
+Aliseda%
+\ \BBA {} Berástegui%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Aliseda}
+\APACinsertmetastar {%
+Aliseda}%
+\begin{APACrefauthors}%
+Aliseda, D.%
+\BCBT {}\ \BBA {} Berástegui, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Retinopatia diabetica} {Retinopatia diabetica}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Servicio de Oftalmología. Hospital de Navarra.}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+de~la Peña%
+, Buitrón-Granados%
+\BCBL {}\ \BBA {} Ramírez-Martínez%
+}{%
+de~la Peña%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2011}}%
+}]{%
+Mexico.Estudio2011}
+\APACinsertmetastar {%
+Mexico.Estudio2011}%
+\begin{APACrefauthors}%
+de~la Peña, J\BPBI E.%
+, Buitrón-Granados, \BPBI L\BPBI V.%
+\BCBL {}\ \BBA {} Ramírez-Martínez, \BPBI J\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Diabetes en México.} {Diabetes en méxico.}{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Diabetes en México.} {Diabetes en méxico.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+del Carmen Dubón~Peniche%
+\ \BBA {} Lariosb%
+}{%
+del Carmen Dubón~Peniche%
+\ \BBA {} Lariosb%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+CONAMED}
+\APACinsertmetastar {%
+CONAMED}%
+\begin{APACrefauthors}%
+del Carmen Dubón~Peniche, M.%
+\BCBT {}\ \BBA {} Lariosb, L\BPBI A\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {retinopatía diabética} {retinopatía
+  diabética}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Revista de la Facultad de Medicina de la UNAM.} {Revista
+  de la facultad de medicina de la unam.}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dosal%
+}{%
+Dosal%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+Dosal}
+\APACinsertmetastar {%
+Dosal}%
+\begin{APACrefauthors}%
+Dosal, D\BPBI J\BPBI A\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{{\APACmonth{05}}}{}.
+\newblock
+\APACrefbtitle {Retinopatía Diabética.} {Retinopatía diabética.}
+\newblock
+\APAChowpublished {UNAM}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

@@ -1,0 +1,11 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{1}%
+\contentsline {section}{\numberline {2}Problem\IeC {\'a}tica}{3}%
+\contentsline {section}{\numberline {3}Justificaci\IeC {\'o}n}{4}%
+\contentsline {section}{\numberline {4}Objetivos}{5}%
+\contentsline {subsection}{\numberline {4.1}Objetivo General}{5}%
+\contentsline {subsection}{\numberline {4.2}Objetivos Espec\IeC {\'\i }ficos}{5}%
+\contentsline {section}{\numberline {5}Metodologia}{6}%
+\contentsline {section}{\numberline {6}Metas y entregables}{6}%
+\contentsline {section}{\numberline {7}Cronograma}{6}%
+\contentsline {section}{Referencias}{7}%
