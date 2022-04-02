@@ -1,0 +1,381 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.8)  23 FEB 2022 22:47
+entering extended mode
+**./Maestro.tex
+(Maestro.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18>
+("C:\Program Files\MiKTeX\tex/latex/base\report.cls"
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX\tex/latex/base\size12.clo"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Program Files\MiKTeX\tex/generic/babel\babel.sty"
+Package: babel 2020/06/10 3.45 The Babel package
+
+("C:\Program Files\MiKTeX\tex/generic/babel\babel.def"
+File: babel.def 2020/06/10 3.45 Babel common definitions
+\babel@savecnt=\count176
+\U@D=\dimen135
+\l@babelnohyphens=\language79
+
+("C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def")
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count177
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX\tex/latex/babel-spanish\spanish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks15
+\es@quotdepth=\count178
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen136
+\Gin@req@width=\dimen137
+)
+("C:\Program Files\MiKTeX\tex/latex/subfiles\subfiles.sty"
+Package: subfiles 2020/11/14 v2.2 Multi-file projects (package)
+
+("C:\Program Files\MiKTeX\tex/latex/import\import.sty"
+Package: import 2020/04/01  v 6.2
+))
+("C:\Program Files\MiKTeX\tex/latex/adjustbox\adjustbox.sty"
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Program Files\MiKTeX\tex/latex/xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX\tex/generic/xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX\tex/generic/xkeyval\xkvutils.tex"
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count179
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Program Files\MiKTeX\tex/latex/adjustbox\adjcalc.sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+("C:\Program Files\MiKTeX\tex/latex/adjustbox\trimclip.sty"
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+("C:\Program Files\MiKTeX\tex/latex/collectbox\collectbox.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box45
+)
+\tc@llx=\dimen138
+\tc@lly=\dimen139
+\tc@urx=\dimen140
+\tc@ury=\dimen141
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+("C:\Program Files\MiKTeX\tex/latex/adjustbox\tc-pdftex.def"
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen142
+\adjbox@Height=\dimen143
+\adjbox@Depth=\dimen144
+\adjbox@Totalheight=\dimen145
+\adjbox@pwidth=\dimen146
+\adjbox@pheight=\dimen147
+\adjbox@pdepth=\dimen148
+\adjbox@ptotalheight=\dimen149
+
+("C:\Program Files\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty"
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count180
+)
+("C:\Program Files\MiKTeX\tex/latex/varwidth\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box46
+\sift@deathcycles=\count181
+\@vwid@loff=\dimen150
+\@vwid@roff=\dimen151
+))
+("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count182
+\l__pdf_internal_box=\box47
+)
+(Maestro.aux
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+)
+\openout1 = `Maestro.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+ ("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count183
+\scratchdimen=\dimen152
+\scratchbox=\box48
+\nofMPsegments=\count184
+\nofMParguments=\count185
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count186
+\MPscratchDim=\dimen153
+\MPnumerator=\count187
+\makeMPintoPDFobject=\count188
+\everyMPtoPDFconversion=\toks22
+) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+(PORTADA/PORTADA.tex
+<PORTADA/ESCUDO/ESCUDO.png, id=1, 151.2852pt x 99.7326pt>
+File: PORTADA/ESCUDO/ESCUDO.png Graphic file (type png)
+<use PORTADA/ESCUDO/ESCUDO.png>
+Package pdftex.def Info: PORTADA/ESCUDO/ESCUDO.png  used on input line 16.
+(pdftex.def)             Requested size: 151.28482pt x 99.73235pt.
+ [1
+
+{C:/Users/Martin Rivero/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./PORTA
+DA/ESCUDO/ESCUDO.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 68.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 68.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 68.
+ [1]) (Maestro.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `Maestro.toc'.
+
+ [2
+
+]
+(Maestro.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@lof=\write4
+\openout4 = `Maestro.lof'.
+
+ [3
+
+] (Maestro.lot
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@lot=\write5
+\openout5 = `Maestro.lot'.
+
+ [4
+
+]
+Cap\'{\i }tulo 2.
+(CAPITULOS/CAPITULO_2/2.1/C2_2.1_Retinopatia.tex
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+[1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--67
+
+ []
+
+[2]
+<CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_1.png, id=30, 353.52075pt x 265.59225p
+t>
+File: CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_1.png Graphic file (type png)
+<use CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_1.png>
+Package pdftex.def Info: CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_1.png  used on
+ input line 71.
+(pdftex.def)             Requested size: 292.5pt x 219.76065pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--81
+
+ []
+
+<CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_2.png, id=31, 353.52075pt x 268.00125p
+t>
+File: CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_2.png Graphic file (type png)
+<use CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_2.png>
+Package pdftex.def Info: CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_2.png  used on
+ input line 84.
+(pdftex.def)             Requested size: 292.5pt x 221.75395pt.
+[3 <./CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 90--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--95
+
+ []
+
+<CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_3.png, id=36, 352.9185pt x 263.7855pt>
+
+File: CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_3.png Graphic file (type png)
+<use CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_3.png>
+Package pdftex.def Info: CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_3.png  used on
+ input line 98.
+(pdftex.def)             Requested size: 292.5pt x 218.63197pt.
+<CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_4.png, id=37, 320.397pt x 237.88875pt>
+
+File: CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_4.png Graphic file (type png)
+<use CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_4.png>
+Package pdftex.def Info: CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_4.png  used on
+ input line 105.
+(pdftex.def)             Requested size: 292.5pt x 217.1869pt.
+<CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_5.png, id=38, 319.79475pt x 240.9pt>
+File: CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_5.png Graphic file (type png)
+<use CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_5.png>
+Package pdftex.def Info: CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_5.png  used on
+ input line 113.
+(pdftex.def)             Requested size: 292.5pt x 220.34413pt.
+[4 <./CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_2.png>] [5 <./CAPITULOS/CAPITULO_
+2/2.1/Img_C2_2.1/FIG_3.png> <./CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_4.png>])
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--26
+
+ []
+
+[6 <./CAPITULOS/CAPITULO_2/2.1/Img_C2_2.1/FIG_5.png>] [7]
+(CAPITULOS/CAPITULO_2/2.2/C2_2.2_Algoritmos_Geneticos.tex
+<CAPITULOS/CAPITULO_2/2.2/Img_C2_2.2/evolution.jpg, id=55, 1513.655pt x 446.668
+75pt>
+File: CAPITULOS/CAPITULO_2/2.2/Img_C2_2.2/evolution.jpg Graphic file (type jpg)
+
+<use CAPITULOS/CAPITULO_2/2.2/Img_C2_2.2/evolution.jpg>
+Package pdftex.def Info: CAPITULOS/CAPITULO_2/2.2/Img_C2_2.2/evolution.jpg  use
+d on input line 19.
+(pdftex.def)             Requested size: 390.0pt x 115.08153pt.
+ [8 <./CAPITULOS/CAPITULO_2/2.2/Img_C2_2.2/evolution.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 53--58
+
+ []
+
+<CAPITULOS/CAPITULO_2/2.2/Img_C2_2.2/FIG_1.png, id=60, 754.017pt x 333.04425pt>
+
+File: CAPITULOS/CAPITULO_2/2.2/Img_C2_2.2/FIG_1.png Graphic file (type png)
+<use CAPITULOS/CAPITULO_2/2.2/Img_C2_2.2/FIG_1.png>
+Package pdftex.def Info: CAPITULOS/CAPITULO_2/2.2/Img_C2_2.2/FIG_1.png  used on
+ input line 61.
+(pdftex.def)             Requested size: 390.0pt x 172.25911pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--94
+
+ []
+
+[10 <./CAPITULOS/CAPITULO_2/2.2/Img_C2_2.2/FIG_1.png>] [11])
+(CAPITULOS/CAPITULO_2/2.3/C2_2.3_Seleccion_Caracteristicas.tex [12]) [13]
+[14] (Maestro.aux
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+) ) 
+Here is how much of TeX's memory you used:
+ 3537 strings out of 480790
+ 54902 string characters out of 2907029
+ 309566 words of memory out of 3000000
+ 19476 multiletter control sequences out of 15000+200000
+ 537198 words of font info for 40 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 31i,9n,42p,942b,416s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progr
+am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Maestro.pdf (19 pages, 2562492 bytes).
+PDF statistics:
+ 92 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+

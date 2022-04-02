@@ -1,0 +1,33 @@
+\documentclass[12pt,letterpaper]{report}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{subfiles}
+\usepackage{adjustbox}
+
+
+\begin{document}
+\subfile{PORTADA/PORTADA}
+\tableofcontents
+\thispagestyle{empty}
+
+\listoffigures
+\thispagestyle{empty}
+\listoftables
+\thispagestyle{empty}
+\newpage
+
+\pagenumbering{arabic}
+
+\setcounter{chapter}{1}
+\chapter{Marco Teórico}
+%CAPITULO 2 SECCION 2.1
+\subfile{CAPITULOS/CAPITULO_2/2.1/C2_2.1_Retinopatia}
+
+%CAPITULO 2 SECCION 2.2
+\subfile{CAPITULOS/CAPITULO_2/2.2/C2_2.2_Algoritmos_Geneticos}
+
+%CAPITULO 2 SECCION 2.3
+\subfile{CAPITULOS/CAPITULO_2/2.3/C2_2.3_Seleccion_Caracteristicas}
+
+\end{document}

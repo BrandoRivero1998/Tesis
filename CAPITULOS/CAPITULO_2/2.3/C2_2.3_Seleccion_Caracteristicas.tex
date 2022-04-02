@@ -1,0 +1,58 @@
+\documentclass[12pt,letterpaper]{report}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+
+
+\begin{document}
+\setcounter{chapter}{2}
+\setcounter{section}{2}
+\section{Selección de características.}\label{cap.seleccion_caracteristicas}
+
+\subsection{ El problema de la dimensionalidad.}
+
+Actualmente, los problemas numéricos tienden a aumentar el número de características que describen el problema, lo que resulta en un aumento de la dimensionalidad del problema. A medida que aumenta la dimensionalidad, surgen nuevos problemas que dificultan los esfuerzos para optimizar estos problemas. el espacio del volumen de búsqueda crece exponencialmente y, además, cambian las características del espacio de búsqueda y aumentan las interacciones y dependencias entre variables. Estos problemas se denominan en la literatura como la maldición de dimensionalidad. Los algoritmos evolutivos han demostrado resolver satisfactoriamente problemas de optimización numérica, pero esta maldición de la dimensionalidad también afecta su desempeño, y la interacción de las variables aumenta aún más cuando el problema está restringido.
+
+Hoy en día, diferentes problemas de optimización tienen bastantes variables de decisión, que se clasifican
+como un problema de alta dimensión. Estos problemas presentan desafíos importantes para los algoritmos de computación evolutiva porque el espacio de búsqueda crece exponencialmente, la naturaleza de la función
+Pueden variar a medida que crece la dimensionalidad, y debido a la cantidad de variables, la evaluación de estos problemas suele ser costosa además de aumentar la interacción entre las variables. Todas estas características se conocen en la literatura profesional como la "maldición de la dimensionalidad". Por estas razones, cuando los algoritmos evolutivos intentan resolver este tipo de problemas, su rendimiento se resiente.
+
+%Referenciar tesis-AdanAguilar 
+\subsection{ Técnicas para reducir la dimensionalidad.} 
+
+
+\subsubsection{Conceptos de optimizacion}
+Hablando de manera general, optimizar es el proceso de encontrar la solución máxima ó mínima de un problema. Los problemas están definidos por una función objetivo también conocida como función de aptitud o costo. Éstos pueden estar sujetos a un conjunto de restricciones; una solución es un
+conjunto de variables de decisión que determinan el valor de la función objetivo. Cuando un problema es restringido, las soluciones que se buscan son aquellas que satisfacen todo el conjunto de restricciones y estas forman parte de la región factible.
+Antes de entrar al detalle de los métodos de optimización es necesario definir que es un valor óptimo y los diferentes tipos de óptimos que existen.
+
+\begin{itemize}
+	\item \textbf{Optimo Local}
+	Si un punto es localmente óptimo, si No hay uno mejor en el area. Hablando de minimización.
+	\item \textbf{Optimo Global}
+	Un punto es globalmente óptimo, si y solo si no hay mejor punto que este en todo el espacio de búsqueda
+\end{itemize}
+
+Teniendo esto claro, es momento de hablar de los metodos que permiten la optimizacion para reducir la dimensionalidad.
+
+\subsection{Métodos Directos}
+
+En esta sección nos dedicaremos a presentar algunos de los métodos de para minimizar, los cuales no requieren información de gradiente en la función para poder optimizar. Es decir, solo utilizan la información del valor de la función, por lo que también se denominan métodos directos.
+
+Vale la pena mencionar que los algoritmos basados en gradientes resultan ser mas eficientes que los métodos directos, unicamente si se dispone de la información sobre los gradientes.
+
+Sin embargo, los óptimos globales no son necesariamente únicos, es decir, en muchos problemas prácticos puede haber múltiples óptimos globales en la función y calcular derivados es difícil, en cuyo caso los métodos directos son útiles. 
+A continuación se describen dos métodos sencillos que han demostrado su eficacia para resolver problemas de optimización multivariante.
+
+\subsubsection{Simplex}
+\subsubsection{Hooke-Jevees}
+
+\subsection{Metodos basados en gradiente}
+\subsubsection{Método de Gradiente. (Máximo Descenso).}
+\subsubsection{Método de Gradiente Conjugado}
+
+\subsection {Métodos Indirectos. Métodos de Segundo Orden.}
+\subsubsection{Método de Newton.}
+\subsubsection{Forzando a la Matriz Hessiana a ser Definida Positiva.}
+\subsubsection {Métodos de Secante }
+\end{document}
